@@ -30,7 +30,7 @@ a {text-decoration: none; color: black;}
 @font-face {font-family: "night"; src: url("nightmare.otf") format("opentype");}
 @font-face {font-family: "charm"; src: url("Charming.otf") format("opentype");}
 /*Тексты*/
-.text{line-height:3vw; position:relative; top: 2vw; left:7vw; width:clamp(700px, 40vw, 2000px); height:clamp(300px, 20vw, 1080px); padding-bottom:50px;}
+.text{line-height:3vw; position:relative; top: 2vw; width:clamp(700px, 40vw, 2000px); height:clamp(300px, 20vw, 1080px); padding-bottom:70px; margin-left: auto; margin-right: auto;}
 .kanicoName{font-family: charm; font-size: 4em; color: white; height: 1em;} 
 .name{font-family: night; font-size: 15em; color: #bd083f; height: 0.9em; display: flex; align-items: center;}
 .date{font-size: 3em; color: #c7ccd0; height: 1em;}
